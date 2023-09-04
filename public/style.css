@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Open+Sans&display=swap');
+
+body{
+  font-family:'Open Sans',sans-serif;
+  background-image: url(pexels-johannes-plenio-1103970.jpg);
+  background-position: center;
+}
+
+.center-div{
+  padding-top: 10%;
+}
+
+.btn-primary{
+  padding: .4em 2em;
+}
+
+
+.form-group{
+  margin-top: 1em;
+}
+.custom-shadow {
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3); 
+}
